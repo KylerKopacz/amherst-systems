@@ -1,5 +1,5 @@
 ; ----------------------------------------------------------------------------------------
-; Writes specified message to the console using only system calls.
+; Writes "Hello, World" to the console using only system calls.
 ; To assemble and run:
 ;
 ;     $ nasm -felf64 -g hello.asm
